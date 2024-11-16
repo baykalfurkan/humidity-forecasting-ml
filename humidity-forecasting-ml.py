@@ -7,7 +7,7 @@ import pandas as pd
 
 #2. Veri Onisleme
 #2.1. Veri Yukleme
-veriler = pd.read_csv('odev_tenis.csv')
+veriler = pd.read_csv('tenis.csv')
 
 
 #veri on isleme
