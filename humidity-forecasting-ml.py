@@ -101,7 +101,3 @@ for i, (pred, test) in enumerate(zip(y_pred, y_test), start=1):
 print(f"\nMean Absolute Error (MAE): {mae:.2f}")
 print(f"R² Skoru: {r2:.2f}")
 print(30*"-")
-
-from sklearn.metrics import mean_absolute_error, r2_score
-
-
